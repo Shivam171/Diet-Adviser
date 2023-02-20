@@ -5,7 +5,7 @@ public class DietAdvice {
         Scanner input = new Scanner(System.in);
 
         System.out.println("|-----------------------------------------------------|");
-        System.out.println("|              * DOCTOR'S DIET ADVISOR *              |");
+        System.out.println("|              * DOCTOR'S DIET ADVISER *              |");
         System.out.println("|-----------------------------------------------------|");
 
         System.out.print("| Enter the number of calories in the food -> ");
